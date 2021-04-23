@@ -11,3 +11,5 @@ yarn
 # Serve on localhost:3000
 yarn start
 ```
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/react-redux)](https://github.com/kevinadhiguna)
